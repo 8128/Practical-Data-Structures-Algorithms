@@ -1,7 +1,5 @@
 package algo.insertionsort;
 
-import com.sun.org.apache.bcel.internal.classfile.EnumElementValue;
-
 public class App{
     public static void main(String[] args) {
         int myArray[] = insertionSort(new int[] {9,8,99,110,8,87,637,8,3,13,87,12,99});
